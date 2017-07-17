@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Trails"
+             x:Class="Trails.MainPage">
+
+    <StackLayout Spacing="20"
+                 Padding="10">
+        <Button Text="Start"
+                BackgroundColor="Red"
+                Clicked="Button_Clicked"
+                TextColor="Black"/>
+        <Grid BackgroundColor="Maroon"
+              x:Name="Grid1"
+              HeightRequest="50"
+              WidthRequest="200"
+              HorizontalOptions="Start"/>
+        <Label BackgroundColor="Red"
+               x:Name="Label1"
+               Text="I can Rotate"/>
+        <Button Text="Reviews"
+                BackgroundColor="Maroon"
+                Clicked="Button_Clicked_1"/>
+        <Button Text="Change Color"
+                BackgroundColor="Maroon"
+                Clicked="Button_Clicked_2Async"/>
+        <Slider x:Name="Slider1"
+                Minimum="0"
+                Maximum="100"
+                ValueChanged="Slider1_ValueChanged"/>
+        <Label BackgroundColor="Red"
+               TextColor="Black"
+               x:Name="Label2"/>
+    </StackLayout>
+
+</ContentPage>

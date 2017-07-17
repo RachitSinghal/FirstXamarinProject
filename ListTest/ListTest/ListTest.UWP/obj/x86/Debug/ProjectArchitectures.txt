@@ -1,0 +1,2 @@
+C:\Users\Rachit Singal\Desktop\Xamarin_Projects\ListTest\ListTest\ListTest.UWP\ListTest.UWP.csproj;x86
+C:\Users\Rachit Singal\Desktop\Xamarin_Projects\ListTest\ListTest\ListTest\ListTest.csproj;neutral

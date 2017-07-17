@@ -1,0 +1,15 @@
+C:\Users\Rachit Singal\Desktop\Xamarin_Projects\TestNotiImaSou\TestNotiImaSou\TestNotiImaSou\bin\Debug\TestNotiImaSou.dll
+C:\Users\Rachit Singal\Desktop\Xamarin_Projects\TestNotiImaSou\TestNotiImaSou\TestNotiImaSou\bin\Debug\TestNotiImaSou.pdb
+C:\Users\Rachit Singal\Desktop\Xamarin_Projects\TestNotiImaSou\TestNotiImaSou\TestNotiImaSou\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Rachit Singal\Desktop\Xamarin_Projects\TestNotiImaSou\TestNotiImaSou\TestNotiImaSou\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Rachit Singal\Desktop\Xamarin_Projects\TestNotiImaSou\TestNotiImaSou\TestNotiImaSou\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Rachit Singal\Desktop\Xamarin_Projects\TestNotiImaSou\TestNotiImaSou\TestNotiImaSou\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Rachit Singal\Desktop\Xamarin_Projects\TestNotiImaSou\TestNotiImaSou\TestNotiImaSou\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Rachit Singal\Desktop\Xamarin_Projects\TestNotiImaSou\TestNotiImaSou\TestNotiImaSou\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\Rachit Singal\Desktop\Xamarin_Projects\TestNotiImaSou\TestNotiImaSou\TestNotiImaSou\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Rachit Singal\Desktop\Xamarin_Projects\TestNotiImaSou\TestNotiImaSou\TestNotiImaSou\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Rachit Singal\Desktop\Xamarin_Projects\TestNotiImaSou\TestNotiImaSou\TestNotiImaSou\obj\Debug\TestNotiImaSou.csprojResolveAssemblyReference.cache
+C:\Users\Rachit Singal\Desktop\Xamarin_Projects\TestNotiImaSou\TestNotiImaSou\TestNotiImaSou\obj\Debug\TestNotiImaSou.MainPage.xaml.g.cs
+C:\Users\Rachit Singal\Desktop\Xamarin_Projects\TestNotiImaSou\TestNotiImaSou\TestNotiImaSou\obj\Debug\TestNotiImaSou.App.xaml.g.cs
+C:\Users\Rachit Singal\Desktop\Xamarin_Projects\TestNotiImaSou\TestNotiImaSou\TestNotiImaSou\obj\Debug\TestNotiImaSou.dll
+C:\Users\Rachit Singal\Desktop\Xamarin_Projects\TestNotiImaSou\TestNotiImaSou\TestNotiImaSou\obj\Debug\TestNotiImaSou.pdb

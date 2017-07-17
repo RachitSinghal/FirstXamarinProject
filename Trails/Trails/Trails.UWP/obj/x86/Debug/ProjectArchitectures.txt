@@ -1,0 +1,2 @@
+C:\Users\Rachit Singal\Desktop\Xamarin_Projects\Trails\Trails\Trails.UWP\Trails.UWP.csproj;x86
+C:\Users\Rachit Singal\Desktop\Xamarin_Projects\Trails\Trails\Trails\Trails.csproj;neutral

@@ -1,0 +1,2 @@
+c:\users\rachit singal\documents\visual studio 2017\Projects\MvvnTest\MvvnTest\MvvnTest.UWP\MvvnTest.UWP.csproj;x86
+c:\users\rachit singal\documents\visual studio 2017\Projects\MvvnTest\MvvnTest\MvvnTest\MvvnTest.csproj;neutral

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:MvvnTest"
+             x:Class="MvvnTest.MainPage"
+             Title="HomePage">
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Style x:Key="StyleLabel"
+                   TargetType="Label">
+                <Setter Property="TextColor"
+                        Value="Black"/>
+                <Setter Property="BackgroundColor"
+                        Value="Red"/>
+                <Setter Property="Font"
+                        Value="Large"/>
+            </Style>
+            <Style x:Key="StyleEntry"
+                   TargetType="Entry">
+                <Setter Property="TextColor"
+                        Value="Black"/>
+                <Setter Property="BackgroundColor"
+                        Value="Red"/>
+            </Style>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    <StackLayout Orientation="Vertical" 
+                 BackgroundColor="Black"
+                 Spacing="10"
+                 Padding="10">
+        <Label Text="User Name : "
+               Style="{StaticResource StyleLabel}"/>
+        <Entry Text="{Binding Tk.Name, Mode=TwoWay}"
+            Style="{StaticResource StyleEntry}"/>
+        <Label Text="Technology : "
+               Style="{StaticResource StyleLabel}"/>
+        <Entry Text="{Binding Tk.Tech, Mode=TwoWay}"
+            Style="{StaticResource StyleEntry}"/>
+        <Button Text="Join" 
+                TextColor="Black"
+                BackgroundColor="Red"
+                Command="{Binding JoinComm}"/>
+        <Label Style="{StaticResource StyleLabel}"
+               Text="{Binding Message}"/>
+    </StackLayout>
+</ContentPage>

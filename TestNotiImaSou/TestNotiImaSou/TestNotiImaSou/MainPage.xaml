@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:TestNotiImaSou"
+             x:Class="TestNotiImaSou.MainPage">
+    <ScrollView>
+        <StackLayout>
+            <Image Source="rachit.jpg"/>
+            <Label Text="Local Image"/>
+            <Image Source="https://xamarin.com/content/images/pages/forms/example-app.png"/>
+            <Label Text="Downloaded Image"/>
+            <Image Source="{local:ImageResource TestNotiImaSou.singhal.jpg}" />
+            <Label Text="Embeded Image"/>
+        </StackLayout>
+    </ScrollView>
+
+</ContentPage>
